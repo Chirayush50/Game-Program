@@ -2,5 +2,5 @@ Rock-Paper-Scissor-Game-Project
 Project based on C language 
 Group project 
 Chirayush Malviya
-AAdarsh Namdeo
+Aadarsh Namdeo
 Darshan Patel
